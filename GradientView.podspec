@@ -1,4 +1,4 @@
-`Pod::Spec.new do |s|
+Pod::Spec.new do |s|
 [s.name](http://s.name/) = 'GradientView'
 s.summary = 'Our GradientView'
 s.version = '1.0'
